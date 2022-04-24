@@ -3,5 +3,4 @@ target: bson-rust
 
 cmds:
     - cmd: /hash
-    - cmd: /iterate
-    - cmd: /raw_deserialize
+    - cmd: /verify
