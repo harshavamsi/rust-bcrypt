@@ -1,6 +1,5 @@
 project: bson-rust
-target: bson-rust
+target: verify
 
 cmds:
-    - cmd: /hash
     - cmd: /verify

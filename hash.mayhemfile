@@ -1,0 +1,5 @@
+project: bson-rust
+target: hash
+
+cmds:
+    - cmd: /hash
